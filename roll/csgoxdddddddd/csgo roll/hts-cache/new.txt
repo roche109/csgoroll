@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:43:41	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2001%20Mar%202022%2013:43:41%20GMT	http://csgoroll.com/robots.txt		(from )
+13:43:42	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2001%20Mar%202022%2013:43:41%20GMT	http://csgoroll.com/	C:/Users/ruair/Desktop/roll/csgoxdddddddd/csgo%20roll/index-2.html	(from )
